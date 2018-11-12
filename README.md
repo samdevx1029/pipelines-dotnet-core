@@ -1,3 +1,5 @@
+[![Build Status](https://samdevx1029.visualstudio.com/Aspc.Api.Swagger.template/_apis/build/status/Aspc.Api.Swagger.template-CI)](https://samdevx1029.visualstudio.com/Aspc.Api.Swagger.template/_build/latest?definitionId=2)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
